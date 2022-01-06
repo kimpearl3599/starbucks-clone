@@ -11,9 +11,3 @@
 1. scroll magic(reserve coffee ~ reserve store까지의 animation)
 1. scrollto plugin(to-top)
 
-`Welcome to the clone site`
-
-```Hello```
-
-사이트 바로가기는 아래 버튼 클릭!
-[![starbucks](https://jolly-fermat-10e783.netlify.app/images/starbucks_logo.png)](https://jolly-fermat-10e783.netlify.app/)
